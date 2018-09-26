@@ -18,6 +18,8 @@ public class GoppaCodeTest {
 	
 	@Test
 	public void checker() {
+		char[] chs = {'h','e','l','l','o'};
+		System.out.println(Arrays.toString(chs));
 	}
 
 	@Test
